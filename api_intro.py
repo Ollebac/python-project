@@ -10,10 +10,3 @@ a = 0
 while a < int(count):
     print(a+1, ': ', data['data'][a]['fact'])
     a += 1
-
-# a = 10
-# b = 0
-
-# while b<10:
-#     print(b+1, ': ', data['data'][b]['fact'])
-#     b+=1
